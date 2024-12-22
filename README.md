@@ -1,0 +1,1 @@
+The purpose of this project is to demonstrate technical proficiency in acquiring, cleaning, transforming, organizing, and presenting data. This involves leveraging multiple data acquisition techniques such as APIs, web scraping, and SQL queries to collect data from at least two sources.
